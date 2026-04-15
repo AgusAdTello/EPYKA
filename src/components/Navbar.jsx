@@ -9,8 +9,8 @@ export default function Navbar() {
     }`;
 
   return (
-    // bg-[#F8F5F0] es el color exacto del fondo de tu imagen. Reduje el padding para que no sea tan "ancha/alta"
-    <nav className="flex flex-col md:flex-row justify-between items-center py-4 px-6 md:px-12 bg-[#FEEDE6] shadow-sm sticky top-0 z-50">
+    // bg-[#FCE4EC] es el color exacto del fondo de tu imagen. Reduje el padding para que no sea tan "ancha/alta"
+    <nav className="flex flex-col md:flex-row justify-between items-center py-4 px-6 md:px-12 bg-[#FCE4EC] shadow-sm sticky top-0 z-50">
       
       <div className="mb-4 md:mb-0">
         <NavLink to="/">

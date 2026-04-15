@@ -14,8 +14,8 @@ import Contacto from './pages/Contacto';
 function App() {
   return (
     <Router>
-      {/* Acá está el "rosa clarito" para el fondo de toda la web: bg-[#FFF5F7] */}
-      <div className="flex flex-col min-h-screen bg-[#FFF5F7]">
+      {/* Acá está el "rosa clarito" para el fondo de toda la web: bg-[#FFFFFF] */}
+      <div className="flex flex-col min-h-screen bg-[#FFFFFF]">
         <Navbar /> 
 
         <main className="flex-grow">
