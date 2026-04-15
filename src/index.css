@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@config "../tailwind.config.js"; /* Esto vincula tu archivo de colores */
+
+:root {
+  scroll-behavior: smooth;
+}
